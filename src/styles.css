@@ -39,7 +39,9 @@ html {
 }
 
 .logo {
+    display: flex;
     justify-content: start;
+    flex-wrap: nowrap;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 20px;
@@ -49,7 +51,7 @@ html {
 }
 
 .PARTSPRO {
-    margin-left: -6px;
+    margin-left: -3px;
 }
 
 .linksList {
